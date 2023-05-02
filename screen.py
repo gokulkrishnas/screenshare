@@ -32,7 +32,7 @@ else:
 
 class Screen():
     def __init__(self):
-        self.FPS = 10
+        self.FPS = 25
         self.screenbuf = ""
         self.password = ""
         if ver==2:
